@@ -62,6 +62,10 @@ help creating it.
 
 - Micro Reactor Drum Rotation Model [documentation](microreactors/drum_rotation/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation)
 
+- Molten Salt Reactor Experiment RZ multiphysics steady state (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state)
+
+- Molten Salt Reactor Experiment RZ multiphysics transient (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
+
 ### Primary loop analysis
 
 - Molten Salt Fast Reactor plant multiphysics [documentation](msr/msfr/plant/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/main/msr/msfr/plant)
@@ -98,6 +102,8 @@ help creating it.
 - Dispersed UO2 LEU pulse model [documentation](leu_pulse/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/htgr/leu_pulse)
 
 - Micro Reactor Drum Rotation Model [documentation](microreactors/drum_rotation/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation)
+
+- Molten Salt Reactor Experiment RZ multiphysics transient (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
 
 ### Protected loss of coolant flow
 

@@ -74,6 +74,10 @@ the input file, but generally reside in the same folder in the repository.
 
 - Micro Reactor Drum Rotation Model [documentation](microreactors/drum_rotation/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation)
 
+ Molten Salt Reactor Experiment RZ multiphysics steady state [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state)
+
+ Molten Salt Reactor Experiment RZ multiphysics transient [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
+
 ### Multiphysics and multiscale simulations
 
 - Pebble Bed Fluoride salt cooled High temperature Reactor [documentation](pbfhr/steady/griffin_pgh_model.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/main/pbfhr/steady)
@@ -165,6 +169,10 @@ specified. The MRAD and PBMR-400 models listed below are an example of this.
 - Generic Pebble Bed Reactor core model [documentation](htgr/generic-pbr/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/htgr/generic-pbr)
 
 - Micro Reactor Drum Rotation Model [documentation](microreactors/drum_rotation/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation)
+
+ Molten Salt Reactor Experiment RZ multiphysics steady state [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state)
+
+ Molten Salt Reactor Experiment RZ multiphysics transient [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
 
 ### HPC required
 
