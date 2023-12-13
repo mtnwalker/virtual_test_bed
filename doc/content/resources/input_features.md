@@ -74,9 +74,8 @@ the input file, but generally reside in the same folder in the repository.
 
 - Micro Reactor Drum Rotation Model [documentation](microreactors/drum_rotation/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/microreactors/drum_rotation)
 
- Molten Salt Reactor Experiment RZ multiphysics steady state [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state)
+- Molten Salt Reactor Experiment RZ multiphysics steady state and transient [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model)
 
- Molten Salt Reactor Experiment RZ multiphysics transient [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
 
 ### Multiphysics and multiscale simulations
 

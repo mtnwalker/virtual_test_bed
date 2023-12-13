@@ -21,8 +21,8 @@ Please refer to the documentation or the indexing below for the codes used.\\
 - Molten Salt Fast Reactor (using MOOSE Navier-Stokes) [documentation](msr/msfr/griffin_pgh_model.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/main/msr/msfr/steady)\\
 - Versatile Test Reactor core model [documentation](sfr/vtr/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/main/sfr/vtr) \\
 - High Temperature Test Facility transient simulations (core conduction) [documentation](htgr/httf/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/main/htgr/httf)
-- Molten Salt Reactor Experiment RZ multiphysics steady state (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/steady_state)
-- Molten Salt Reactor Experiment RZ multiphysics transient (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model/transient)
+- Molten Salt Reactor Experiment RZ multiphysics steady state and transient (using MOOSE Navier-Stokes) [documentation](msr/msre/multiphysics_rz_model/index.md) and [inputs](https://github.com/idaholab/virtual_test_bed/tree/devel/msr/msre/multiphysics_core_model)
+
 
 Multiphysics models will often require access to multiple applications linked or built together, that can run inputs for each code involved.
 Licensing for coupled applications (BlueCRAB and Direwolf) and their export-controlled (Griffin, SAM, Bison, etc) components can be
